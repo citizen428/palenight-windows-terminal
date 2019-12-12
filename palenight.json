@@ -1,0 +1,21 @@
+{
+  "name": "Palenight",
+  "background": "#292d3e",
+  "foreground": "#959dcb",
+  "black": "#434758",
+  "brightBlack": "#434758",
+  "red": "#f07178",
+  "brightRed": "#ff8b92",
+  "green": "#c3e88d",
+  "brightGreen": "#ddffa7",
+  "yellow": "#ffcb6b",
+  "brightYellow": "#ffe585",
+  "blue": "#82aaff",
+  "brightBlue": "#9cc4ff",
+  "purple": "#c792ea",
+  "brightPurple": "#e1acff",
+  "cyan": "#89ddff",
+  "brightCyan": "#a3f7ff",
+  "white": "#d0d0d0",
+  "brightWhite": "#fefefe"
+}
